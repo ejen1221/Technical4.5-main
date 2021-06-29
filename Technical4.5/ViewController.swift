@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var label: UILabel!
     
     @IBAction func button(_ sender: UIButton) {
-        label.text = "You changed me"
+        label.text = "You changed it."
     }
     
     
